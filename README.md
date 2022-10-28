@@ -15,6 +15,7 @@
 |英文|中文|
 |--|--|
 |Circuit breaker|断路器|
+|Cluster|集群|
 
 ### D
 
@@ -30,9 +31,22 @@
 
 ### F
 
+|英文|中文|说明|
+|--|--|--|
+|Fuzzing|模糊测试||
+|Follower|追随者|集群环境下常见的 leader 和 follower|
+
+### L
+
+|英文|中文|说明|
+|--|--|--|
+|Leader|领导者|集群环境下常见的 leader 和 follower|
+
+### M
+
 |英文|中文|
 |--|--|
-|Fuzzing|模糊测试|
+|Metric|度量、指标|
 
 ### T
 
